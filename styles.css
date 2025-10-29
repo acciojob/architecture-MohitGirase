@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	width: 1100px;
+	background-color: #C5D6CA;
+}
+
+.img{
+	width: 200px;
+}
+
+.text{
+	width: 600px;
+	text-align: middle;
+}
